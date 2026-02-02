@@ -1,6 +1,8 @@
+# INF601 - Advanced Programming in Python
+
 # Zach Slusser
-# Advanced Python - Project 1
-# Due: 02/15/2026
+
+# Mini Project 1
 
 import yfinance as yf
 import numpy as np
