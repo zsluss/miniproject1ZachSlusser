@@ -27,4 +27,4 @@ for stock in stocklist:
 
 print(datesonly)
 print(allStocks)
-plt.plot([allStocks], [datesonly])
+
