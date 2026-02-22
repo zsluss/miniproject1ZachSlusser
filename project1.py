@@ -4,11 +4,15 @@
 
 # Mini Project 1
 
+import os
+
 import yfinance as yf
 import numpy as np
 import matplotlib.pyplot as plt
 
-
+# Create charts directory if it doesn't exist
+if not os.path.exists('./charts'):
+    os.makedirs('./charts')
 
 stockdata ={}
 #list of the 5 stocks to get data for

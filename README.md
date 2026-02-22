@@ -21,7 +21,7 @@ You can use this program to quickly get 10 days worth of stock closing prices an
  
 ### Installing
  
-* You can install from github
+* pip install -r requirements.txt
  
 ### Executing program
  
